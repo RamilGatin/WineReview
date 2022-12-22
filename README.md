@@ -9,13 +9,7 @@ https://drive.google.com/drive/folders/1Hxe6E9TuzWrpCvI3GJyKSXdtCf-ccqKd
 
 
 
-Этот набор данных содержит три файла:
 
-winemag-data-130k-v2.csv содержит 10 столбцов и 130 тысяч строк обзоров вин.
-
-winemag-data_first150k.csv содержит 10 столбцов и 150 тысяч строк обзоров вин.
-
-winemag-data-130k-v2.json содержит 6919 обзоров вин.
 
 ### Задача
 
