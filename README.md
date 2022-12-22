@@ -2,9 +2,11 @@
 
 Выполнили: Мингачев Рустам, Гатин Рамиль 11-003
 
-### Папка GoogleDrive (датасет+код)
+### Папка GoogleDrive (датасет)
+https://drive.google.com/drive/folders/1Hxe6E9TuzWrpCvI3GJyKSXdtCf-ccqKd
 
 ### Видео с защитой проекта
+
 
 
 Этот набор данных содержит три файла:
