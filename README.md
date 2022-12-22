@@ -2,8 +2,8 @@
 
 ___
 ### Выполнили:
-Мингачев Рустам, Гатин Рамиль 11-003
-
+## Мингачев Рустам, Гатин Рамиль 11-003
+___
 ### Папка GoogleDrive (датасет)
 https://drive.google.com/drive/folders/1Hxe6E9TuzWrpCvI3GJyKSXdtCf-ccqKd
 
