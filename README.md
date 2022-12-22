@@ -4,6 +4,12 @@ ___
 ### Выполнили:
 ## Мингачев Рустам, Гатин Рамиль 11-003
 ___
+
+### Streamlit
+
+<https://ramilgatin-winereview-main-kj1k3w.streamlit.app/>
+
+___
 ### Папка GoogleDrive (датасет)
 https://drive.google.com/drive/folders/1Hxe6E9TuzWrpCvI3GJyKSXdtCf-ccqKd
 
@@ -47,4 +53,3 @@ Feature selection - используя данный метод, мы практ�
 
 NPL - Оценки ценности с помощью Bag of Words Counts и TF-IDF technique практически не различаются на основе данных по признаку description
 
-<https://ramilgatin-winereview-main-kj1k3w.streamlit.app/>
