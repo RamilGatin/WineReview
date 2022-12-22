@@ -65,7 +65,7 @@ st.title("Распределение цены")
 
 plt.figure(figsize=(20,5))
 plt.title("Distribution of price")
-ax = sns.distplot(data["price"])
+ax = sns.histplot(data["price"])
 st.pyplot(plt)
 plt.clf()
 
@@ -74,7 +74,7 @@ st.title("Вины дороже 200$")
 
 plt.figure(figsize=(20,5))
 plt.title("Distribution of price")
-ax1 = sns.distplot(data[data["price"]<200]['price'])
+ax1 = sns.histplot(data[data["price"]<200]['price'])
 
 percent=data[data['price']>200].shape[0]/data.shape[0]*100
 st.pyplot(plt)
