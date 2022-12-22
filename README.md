@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1Hxe6E9TuzWrpCvI3GJyKSXdtCf-ccqKd
 
 ### Видео с защитой проекта
 
-
+https://www.youtube.com/watch?v=SLnsfTCnY58&ab_channel=PioneeR
 
 
 
