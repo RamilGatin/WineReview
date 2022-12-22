@@ -47,3 +47,4 @@ Feature selection - используя данный метод, мы практ�
 
 NPL - Оценки ценности с помощью Bag of Words Counts и TF-IDF technique практически не различаются на основе данных по признаку description
 
+<https://ramilgatin-winereview-main-kj1k3w.streamlit.app/>
